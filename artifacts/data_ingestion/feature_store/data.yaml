@@ -1,0 +1,13 @@
+names:
+  - smoke
+nc: 1
+roboflow:
+  license: CC BY 4.0
+  project: ciga_smoke
+  url: https://universe.roboflow.com/ksc4/ciga_smoke/dataset/1
+  version: 1
+  workspace: ksc4
+test: /home/ai/Desktop/RABs/ModelTrainingPipeline/artifacts/data_ingestion/feature_store/test/images
+train: /home/ai/Desktop/RABs/ModelTrainingPipeline/artifacts/data_ingestion/feature_store/train/images
+val: /home/ai/Desktop/RABs/ModelTrainingPipeline/artifacts/data_ingestion/feature_store/valid/images
+path: /home/ai/Desktop/RABs/ModelTrainingPipeline/artifacts/data_ingestion/feature_store
